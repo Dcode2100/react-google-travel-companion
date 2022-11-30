@@ -7,5 +7,5 @@ export{
     Header,
     Map,
     List,
-    PlaceDetails
+    PlaceDetails,
 }
